@@ -1,1 +1,1 @@
-Basado en una red social de feeds
+Basado en una red social de feeds.
